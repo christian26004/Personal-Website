@@ -3,6 +3,17 @@ locale = 'en-us'
 title = 'Christian Burek'
 theme = ["github.com/adityatelange/hugo-PaperMod"]
 
+image: hugomods/hugo:exts
+
+pages:
+  script:
+    - hugo
+  artifacts:
+    paths:
+      - public
+  only:
+    - master
+
 [params]
     defaultTheme = "dark"
     showCodeCopyButtons = true
