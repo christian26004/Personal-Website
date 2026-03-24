@@ -12,7 +12,7 @@ pages:
     paths:
       - public
   only:
-    - master
+    - main
 
 [params]
     defaultTheme = "dark"
