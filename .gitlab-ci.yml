@@ -1,0 +1,10 @@
+image: hugomods/hugo:exts
+
+pages:
+  script:
+    - hugo
+  artifacts:
+    paths:
+      - public
+  only:
+    - main
