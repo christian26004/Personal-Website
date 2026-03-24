@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>UTSA Projects on Christian Burek</title>
+    <link>http://localhost:1313/categories/utsa-projects/</link>
+    <description>Recent content in UTSA Projects on Christian Burek</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Mar 2026 15:45:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/utsa-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Absolute Master Guide to Hugo &amp; Markdown</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Tue, 24 Mar 2026 15:40:00 -0500</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>A 100% comprehensive technical reference for Hugo v0.159&#43; and PaperMod, covering LaTeX, Shortcodes, and HTML.</description>
+    </item>
+  </channel>
+</rss>

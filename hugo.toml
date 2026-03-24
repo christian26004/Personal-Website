@@ -1,0 +1,60 @@
+baseURL = 'https://christian26004.gitlab.io/'
+locale = 'en-us'
+title = 'Christian Burek'
+theme = ["github.com/adityatelange/hugo-PaperMod"]
+
+[params]
+    defaultTheme = "dark"
+    showCodeCopyButtons = true
+    ShowFullTextContent = false
+
+[params.profileMode]
+    enabled = true
+    title = "Christian Burek"
+    subtitle = "Computer Science @ UTSA | Software Engineer and Data Scientist"
+    imageUrl = "https://gitlab.com/uploads/-/system/user/avatar/35704100/avatar.png"
+    imageWidth = 120
+    imageHeight = 120
+
+[[params.socialIcons]]
+    name = "gitlab"
+    url = "https://gitlab.com/Christian26004"
+
+[[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/Christian26004"
+
+[[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/christianburek"
+
+[[params.profileMode.buttons]]
+    name = "View Projects"
+    url = "projects"
+
+[[params.profileMode.buttons]]
+    name = "Read Blog"
+    url = "posts"
+
+[[menu.main]]
+    name = "Projects"
+    url = "projects/"
+    weight = 1
+
+[[menu.main]]
+    name = "Blog"
+    url = "posts/"
+    weight = 2
+
+[[menu.main]]
+    name = "Portfolio"
+    url = "portfolio"
+    weight = 3
+
+[[menu.main]]
+    name = "Search"
+    url = "search/"
+    weight = 4
+
+[outputs]
+    home = ["HTML", "RSS", "JSON"]
