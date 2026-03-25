@@ -48,7 +48,7 @@ theme = ["github.com/adityatelange/hugo-PaperMod"]
 
 [[menu.main]]
     name = "Portfolio"
-    url = "portfolio"
+    url = "portfolio/portfolio"
     weight = 3
 
 [[menu.main]]
