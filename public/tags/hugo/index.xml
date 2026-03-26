@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hugo on Christian Burek</title>
-    <link>http://localhost:1313/tags/hugo/</link>
+    <link>http://localhost:52981/tags/hugo/</link>
     <description>Recent content in Hugo on Christian Burek</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 24 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:52981/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/posts/first-post/</link>
+      <link>http://localhost:52981/posts/first-post/</link>
       <pubDate>Tue, 24 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/first-post/</guid>
+      <guid>http://localhost:52981/posts/first-post/</guid>
       <description>New Website, First Post.</description>
     </item>
   </channel>
