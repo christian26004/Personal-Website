@@ -224,7 +224,42 @@
 </div>
 
 <style>
-    .edu-content h1 {
+    .skills-edu {
+        display: flex;
+        gap: 3rem;
+        padding: 2rem 0;
+    }
+
+    .skills-col {
+        text-align: center;
+        flex: 0 0 160px;
+        padding-right: 2rem;
+    }
+
+    .skills-col h2,
+    .edu-col h2 {
+        font-size: 1.3rem;
+        font-weight: 700;
+        margin: 0 0 1rem 0;
+    }
+
+    .skills-col ul {
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        gap: 0.62rem;
+    }
+
+    .skills-col li {
+        background: #3a3a3a;
+        border-radius: 6px;
+        padding: 0.37rem 0.8rem;
+        font-size: 0.88rem;
+        opacity: 0.85;
+        text-align: center;
+    }
+
+    .edu-col h1 {
         font-size: 2.5rem;
         font-weight: 700;
         margin: 0 0 0.75rem 0;
@@ -272,25 +307,70 @@
         border-radius: 50%;
         padding: 10px;
     }
+
+    .edu-col {
+        flex: 1;
+    }
+
+    .work-photo {
+        width: 100%;
+        max-height: 250px;
+        object-fit: cover;
+        border-radius: 12px;
+        margin-top: 2rem;
+        opacity: 0.85;
+    }
+
+    .work-caption {
+        font-size: 0.8rem;
+        opacity: 0.5;
+        margin-top: 0.5rem;
+    }
 </style>
-<div class="education">
-    <div class="edu-item">
-        <div class="edu-content">
-            <h1>UT San Antonio</h1>
-            <h3>B.S. in Computer Science</h3>
-            <p class="edu-date">
-                2023 – Present &nbsp;·&nbsp; Graduation May 2027
-            </p>
-            <ul class="edu-courses">
-                <li>Data Science</li>
-                <li>Database Systems</li>
-                <li>Application Programming</li>
-                <li>Operating Systems</li>
-            </ul>
+<div class="skills-edu">
+    <div class="skills-col">
+        <ul>
+            <li>Java</li>
+            <li>Python</li>
+            <li>C</li>
+            <li>Bash</li>
+            <li>MySQL</li>
+            <li>PHP</li>
+            <li>HTML / CSS</li>
+            <li>Git</li>
+            <li>Linux</li>
+            <li>JavaFX</li>
+            <li>VS Code</li>
+            <li>IntelliJ</li>
+            <li>Zed</li>
+        </ul>
+    </div>
+
+    <div class="edu-col">
+        <div class="edu-item">
+            <div class="edu-content">
+                <h1>UTSA</h1>
+                <h3>B.S. in Computer Science</h3>
+                <p class="edu-school">University of Texas at San Antonio</p>
+                <p class="edu-date">2023 – Present · Graduation May 2027</p>
+                <ul class="edu-courses">
+                    <li>Data Science</li>
+                    <li>Database Systems</li>
+                    <li>Application Programming</li>
+                    <li>Operating Systems</li>
+                </ul>
+            </div>
+            <img src="/images/utsa.png" alt="UTSA" class="edu-logo" />
         </div>
-        <img src="/images/utsa.png" alt="UTSA" class="edu-logo" />
+        <img
+            src="/images/atan-food.png"
+            alt="A-Tan Asian Bistro"
+            class="work-photo"
+        />
+        <p class="work-caption">A-Tan Asian Bistro & Sushi Bar — Seguin, TX</p>
     </div>
 </div>
+
 
     </main>
     
