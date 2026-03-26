@@ -11,7 +11,7 @@ theme = ["github.com/adityatelange/hugo-PaperMod"]
 [params.profileMode]
     enabled = true
     title = "Christian Burek"
-    subtitle = "Computer Science @ UTSA | Software Engineer and Data Scientist"
+    subtitle = "Computer Science @ UTSA | Software Engineer"
     imageUrl = "https://gitlab.com/uploads/-/system/user/avatar/35704100/avatar.png"
     imageWidth = 120
     imageHeight = 120
