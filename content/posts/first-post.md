@@ -5,8 +5,7 @@ author: "Christian Burek"
 summary: "Welcoming myself to my own website."
 description: "New Website, First Post."
 showToc: true
-
-tags: ["Hugo", "CS", "Web-dev"]
+tags: ["Hugo", "CS", "Web-dev", "Development"]
 ---
 
 ## 0x01: Software
