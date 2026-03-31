@@ -6,5 +6,5 @@ to write down what i learn. I want something to look back on to remember, see ho
 ## Road Map
 - [] Implement bad x clone project
 - [] Fix mobile experience on website
-- [] Add custom domain
-- [] Make a better footer
+- [x] Add custom domain
+- [x] Make a better footer
