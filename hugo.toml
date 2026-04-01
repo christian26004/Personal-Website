@@ -1,4 +1,4 @@
-baseURL = 'https://christian26004.gitlab.io/'
+baseURL = 'https://christianburek.dev/'
 locale = 'en-us'
 title = 'Christian Burek'
 theme = ["github.com/adityatelange/hugo-PaperMod"]
