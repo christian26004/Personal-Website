@@ -1,6 +1,7 @@
 ---
 title: "Penny Wise"
 date: 2025-12-03
+author: "Christian Burek, Jace Coose, Apollo Payne"
 description: "Personal Finance Manager"
 summary: "Personal Finance Manger"
 tags: ["Java", "JavaFX", "MVC", "Development"]

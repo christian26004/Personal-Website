@@ -1,10 +1,11 @@
 ---
 title: "First Post"
 date: 2026-03-24
-author: "Christian Burek"
 summary: "Welcoming myself to my own website."
-description: "New Website, First Post."
+description: "New website, first post."
 showToc: true
+draft: false
+showReadingTime: true
 tags: ["Hugo", "CS", "Web-dev", "Development"]
 ---
 
@@ -28,4 +29,4 @@ I'm currently a CS student at **UTSA** taking these classes.
 * **Bad X Clone:** Social Media website for my **Database Systems** class.
 
 ## 0x04: Website Goal
-My overall goal with creating this website is to write down what i learn. I want something to look back on to remember, see how I've grown, and the steps I used to accompish a task. The plan for this is to write a blog about every week talking about something I accompished, including the steps on how I did so. I also hope this website gives me a practical purpose to create goals for myself; The largest challenge I've noticed is finding a reason to do something.
+My overall goal with creating this website is to write down what I learn. I want something to look back on to remember, see how I've grown, and the steps I used to accompish a task. The plan for this is to write a blog about every week talking about something I accompished, including the steps on how I did so. I also hope this website gives me a practical purpose to create goals for myself; The largest challenge I've noticed is finding a reason to do something.
