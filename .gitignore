@@ -1,3 +1,4 @@
 public/
 .hugo_build_lock
 _vendor/
+.DS_Store
